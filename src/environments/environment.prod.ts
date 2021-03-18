@@ -2,10 +2,10 @@ export const environment = {
   production: true,
   endpoint: '/api/v1',
   rootEndpoint: 'http://localhost:3000',
-  discordInvite: 'https://discord.gg/uDTgxyg',
-  docsURL: 'https://docs.dbots.co',
-  githubURL: 'https://github.com/DBots-co',
+  discordInvite: 'https://discord.gg/U9TPYQpXQa',
+  docsURL: 'https://404',
+  githubURL: 'https://404',
   version: 'v1.0.3b',
-  url: 'https://dbots.co',
-  guildId: '236608364333891585'
+  url: 'https://rokutapps.herokuapp.com',
+  guildId: '821946658982985770'
 };
