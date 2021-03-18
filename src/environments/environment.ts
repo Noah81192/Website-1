@@ -1,17 +1,16 @@
 // This file can be replaced during build by using the `fileReplacements` array.
 // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
-
 export const environment = {
   production: false,
+  endpoint: '/api/v1',
   rootEndpoint: 'http://localhost:3000',
-  endpoint: 'http://localhost:3000/api/v1',
-  discordInvite: 'https://discord.gg/uDTgxyg',
-  docsURL: 'https://docs.dbots.co',
-  githubURL: 'https://github.com/DBots-co',
+  discordInvite: 'https://discord.gg/U9TPYQpXQa',
+  docsURL: 'https://404',
+  githubURL: 'https://404',
   version: 'v1.0.3b',
-  url: 'http://localhost:3000',
-  guildId: '531196495584821314'
+  url: 'https://rokutapps.herokuapp.com',
+  guildId: '821946658982985770'
 };
 
 /*
